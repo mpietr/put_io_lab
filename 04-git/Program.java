@@ -10,8 +10,10 @@ public class Puppy {
       puppyAge = age;
    }
 
+   //Pierwsza zmiana
+
    public int getAge( ) {
-      System.out.println("Puppy's age is :" + puppyAge );
+      System.out.println("Wiek:" + puppyAge );
       return puppyAge;
    }
 
