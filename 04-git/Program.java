@@ -2,8 +2,8 @@ public class Puppy {
    int puppyAge;
 
    public Puppy(String name) {
-      // This constructor has one parameter, name.
-      System.out.println("Name chosen is :" + name );
+      // Trzecia zmiana
+      System.out.println("Wybrane imie :" + name );
    }
 
    public void setAge( int age ) {
